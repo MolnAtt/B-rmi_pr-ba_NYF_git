@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bármi_próba_NYF_git", "Bármi_próba_NYF_git\Bármi_próba_NYF_git.csproj", "{D3947786-72CD-4BD7-99F2-20D016E14C81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3947786-72CD-4BD7-99F2-20D016E14C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3947786-72CD-4BD7-99F2-20D016E14C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3947786-72CD-4BD7-99F2-20D016E14C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3947786-72CD-4BD7-99F2-20D016E14C81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26416D75-ED04-4ADA-B33B-08A1C2876730}
+	EndGlobalSection
+EndGlobal
