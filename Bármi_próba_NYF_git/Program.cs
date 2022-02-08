@@ -11,6 +11,8 @@ namespace Bármi_próba_NYF_git
         static void Main(string[] args)
         {
             Console.WriteLine("Helló!");
+
+            int a = int.Parse(Console.ReadLine());
         }
     }
 }
